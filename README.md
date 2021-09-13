@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SEDUC - CE](https://www.seduc.ce.gov.br/)
 
-- 🌱 I’m currently learning **Flutter & Adonis 5**
+- 🌱 I’m currently learning **Flutter & Java 8**
 
 - 💬 Ask me about **Laravel & Adonis 5**
 
