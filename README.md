@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur Cezar</h1>
 <h3 align="center">A curious and dedicated developer from Brazil</h3>
 
-- 🔭 I’m currently working on [SEDUC - CE](seduc.ce.gov.br/)
+- 🔭 I’m currently working on [SEDUC - CE](https://www.seduc.ce.gov.br/)
 
 - 🌱 I’m currently learning **Flutter & Adonis 5**
 
